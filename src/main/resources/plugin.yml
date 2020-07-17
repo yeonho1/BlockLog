@@ -1,0 +1,5 @@
+name: BlockLog
+version: 1.0
+description: BlockLog plugin by yeonho1
+main: io.github.yeonho1.BlockLogPlugin
+author: yeonho1
